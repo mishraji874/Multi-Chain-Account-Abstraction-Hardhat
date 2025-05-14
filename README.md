@@ -27,7 +27,7 @@ This project demonstrates the implementation of a multi-chain account abstractio
 
 1. Clone the repository
    ```bash
-   https://github.com/mishraji874/Multi-Chain-Account-Abstraction-Hardhat.git
+   git clone https://github.com/mishraji874/Multi-Chain-Account-Abstraction-Hardhat.git
    cd Multi-Chain-Account-Abstraction-Hardhat
    ```
 2. Install dependencies:
